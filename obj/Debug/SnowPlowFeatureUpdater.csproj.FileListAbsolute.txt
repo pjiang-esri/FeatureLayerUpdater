@@ -1,0 +1,10 @@
+C:\Projects\DotNet2012\SnowPlowFeatureUpdater\SnowPlowFeatureUpdater\obj\Debug\SnowPlowFeatureUpdater.csprojResolveAssemblyReference.cache
+C:\Projects\DotNet2012\SnowPlowFeatureUpdater\SnowPlowFeatureUpdater\obj\Debug\SnowPlowFeatureUpdater.csproj.GenerateResource.Cache
+C:\Projects\DotNet2012\SnowPlowFeatureUpdater\SnowPlowFeatureUpdater\bin\Debug\Bostson.SnowPlow.FeatureUpdater.exe.config
+C:\Projects\DotNet2012\SnowPlowFeatureUpdater\SnowPlowFeatureUpdater\obj\Debug\Boston.SnowPlow.FeatureUpdater.resources
+C:\Projects\DotNet2012\SnowPlowFeatureUpdater\SnowPlowFeatureUpdater\bin\Debug\Bostson.SnowPlow.FeatureUpdater.exe
+C:\Projects\DotNet2012\SnowPlowFeatureUpdater\SnowPlowFeatureUpdater\bin\Debug\Bostson.SnowPlow.FeatureUpdater.pdb
+C:\Projects\DotNet2012\SnowPlowFeatureUpdater\SnowPlowFeatureUpdater\obj\Debug\Bostson.SnowPlow.FeatureUpdater.exe
+C:\Projects\DotNet2012\SnowPlowFeatureUpdater\SnowPlowFeatureUpdater\obj\Debug\Bostson.SnowPlow.FeatureUpdater.pdb
+C:\Projects\DotNet2012\SnowPlowFeatureUpdater\SnowPlowFeatureUpdater\obj\Debug\Bostson.SnowPlow.FeatureUpdater.ProjectInstaller.resources
+C:\Projects\DotNet2012\SnowPlowFeatureUpdater\SnowPlowFeatureUpdater\bin\Debug\BostonFeatureUpdater.exe.config

@@ -1,0 +1,16 @@
+C:\Projects\DotNet2012\BostonFeatureUpdater\BostonFeatureUpdater\obj\x64\Debug\esri.Service.FeatureLayerUpdater.resources
+C:\Projects\DotNet2012\BostonFeatureUpdater\BostonFeatureUpdater\obj\x64\Debug\esri.Service.ProjectInstaller.resources
+C:\Projects\DotNet2012\BostonFeatureUpdater\BostonFeatureUpdater\obj\x64\Debug\FeatureLayerUpdater.csproj.GenerateResource.Cache
+C:\Projects\DotNet2012\BostonFeatureUpdater\BostonFeatureUpdater\bin\x64\Debug\ESRI.FeatureLayerUpdater.exe.config
+C:\Projects\DotNet2012\BostonFeatureUpdater\BostonFeatureUpdater\bin\x64\Debug\ESRI.FeatureLayerUpdater.exe
+C:\Projects\DotNet2012\BostonFeatureUpdater\BostonFeatureUpdater\bin\x64\Debug\ESRI.FeatureLayerUpdater.pdb
+C:\Projects\DotNet2012\BostonFeatureUpdater\BostonFeatureUpdater\obj\x64\Debug\ESRI.FeatureLayerUpdater.exe
+C:\Projects\DotNet2012\BostonFeatureUpdater\BostonFeatureUpdater\obj\x64\Debug\ESRI.FeatureLayerUpdater.pdb
+C:\Projects\DotNet2012\FeatureLayerUpdater\FeatureLayerUpdater\bin\x64\Debug\ESRI.FeatureLayerUpdater.exe.config
+C:\Projects\DotNet2012\FeatureLayerUpdater\FeatureLayerUpdater\bin\x64\Debug\ESRI.FeatureLayerUpdater.exe
+C:\Projects\DotNet2012\FeatureLayerUpdater\FeatureLayerUpdater\bin\x64\Debug\ESRI.FeatureLayerUpdater.pdb
+C:\Projects\DotNet2012\FeatureLayerUpdater\FeatureLayerUpdater\obj\x64\Debug\esri.Service.FeatureLayerUpdater.resources
+C:\Projects\DotNet2012\FeatureLayerUpdater\FeatureLayerUpdater\obj\x64\Debug\esri.Service.ProjectInstaller.resources
+C:\Projects\DotNet2012\FeatureLayerUpdater\FeatureLayerUpdater\obj\x64\Debug\FeatureLayerUpdater.csproj.GenerateResource.Cache
+C:\Projects\DotNet2012\FeatureLayerUpdater\FeatureLayerUpdater\obj\x64\Debug\ESRI.FeatureLayerUpdater.exe
+C:\Projects\DotNet2012\FeatureLayerUpdater\FeatureLayerUpdater\obj\x64\Debug\ESRI.FeatureLayerUpdater.pdb

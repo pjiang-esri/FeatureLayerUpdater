@@ -1,0 +1,8 @@
+C:\Projects\DotNet2012\FeatureLayerUpdater\FeatureLayerUpdater\bin\Debug\ESRI.FeatureLayerUpdater.exe.config
+C:\Projects\DotNet2012\FeatureLayerUpdater\FeatureLayerUpdater\bin\Debug\ESRI.FeatureLayerUpdater.exe
+C:\Projects\DotNet2012\FeatureLayerUpdater\FeatureLayerUpdater\bin\Debug\ESRI.FeatureLayerUpdater.pdb
+C:\Projects\DotNet2012\FeatureLayerUpdater\FeatureLayerUpdater\obj\Debug\esri.Service.FeatureLayerUpdater.resources
+C:\Projects\DotNet2012\FeatureLayerUpdater\FeatureLayerUpdater\obj\Debug\esri.Service.ProjectInstaller.resources
+C:\Projects\DotNet2012\FeatureLayerUpdater\FeatureLayerUpdater\obj\Debug\FeatureLayerUpdater.csproj.GenerateResource.Cache
+C:\Projects\DotNet2012\FeatureLayerUpdater\FeatureLayerUpdater\obj\Debug\ESRI.FeatureLayerUpdater.exe
+C:\Projects\DotNet2012\FeatureLayerUpdater\FeatureLayerUpdater\obj\Debug\ESRI.FeatureLayerUpdater.pdb

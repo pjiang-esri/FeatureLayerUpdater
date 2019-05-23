@@ -1,0 +1,9 @@
+C:\Projects\DotNet2012\BostonFeatureUpdater\BostonFeatureUpdater\bin\x64\Debug\BostonFeatureUpdater.exe.config
+C:\Projects\DotNet2012\BostonFeatureUpdater\BostonFeatureUpdater\bin\x64\Debug\BostonFeatureUpdater.exe
+C:\Projects\DotNet2012\BostonFeatureUpdater\BostonFeatureUpdater\bin\x64\Debug\BostonFeatureUpdater.pdb
+C:\Projects\DotNet2012\BostonFeatureUpdater\BostonFeatureUpdater\obj\x64\Debug\Boston.Service.FeatureLayerUpdater.resources
+C:\Projects\DotNet2012\BostonFeatureUpdater\BostonFeatureUpdater\obj\x64\Debug\Boston.Service.ProjectInstaller.resources
+C:\Projects\DotNet2012\BostonFeatureUpdater\BostonFeatureUpdater\obj\x64\Debug\BostonFeatureLayerUpdater.csproj.GenerateResource.Cache
+C:\Projects\DotNet2012\BostonFeatureUpdater\BostonFeatureUpdater\obj\x64\Debug\BostonFeatureUpdater.exe
+C:\Projects\DotNet2012\BostonFeatureUpdater\BostonFeatureUpdater\obj\x64\Debug\BostonFeatureUpdater.pdb
+C:\Projects\DotNet2012\BostonFeatureUpdater\BostonFeatureUpdater\obj\x64\Debug\BostonFeatureLayerUpdater.csprojResolveAssemblyReference.cache

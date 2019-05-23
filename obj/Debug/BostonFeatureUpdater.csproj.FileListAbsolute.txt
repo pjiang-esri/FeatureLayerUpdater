@@ -1,0 +1,16 @@
+C:\Projects\DotNet2012\SnowPlowFeatureUpdater\SnowPlowFeatureUpdater\bin\Debug\BostonFeatureUpdater.exe.config
+C:\Projects\DotNet2012\SnowPlowFeatureUpdater\SnowPlowFeatureUpdater\bin\Debug\BostonFeatureUpdater.exe
+C:\Projects\DotNet2012\SnowPlowFeatureUpdater\SnowPlowFeatureUpdater\bin\Debug\BostonFeatureUpdater.pdb
+C:\Projects\DotNet2012\SnowPlowFeatureUpdater\SnowPlowFeatureUpdater\obj\Debug\Boston.Service.FeatureUpdater.resources
+C:\Projects\DotNet2012\SnowPlowFeatureUpdater\SnowPlowFeatureUpdater\obj\Debug\Boston.Service.ProjectInstaller.resources
+C:\Projects\DotNet2012\SnowPlowFeatureUpdater\SnowPlowFeatureUpdater\obj\Debug\BostonFeatureUpdater.csproj.GenerateResource.Cache
+C:\Projects\DotNet2012\SnowPlowFeatureUpdater\SnowPlowFeatureUpdater\obj\Debug\BostonFeatureUpdater.exe
+C:\Projects\DotNet2012\SnowPlowFeatureUpdater\SnowPlowFeatureUpdater\obj\Debug\BostonFeatureUpdater.pdb
+C:\Projects\DotNet2012\BostonFeatureUpdater\BostonFeatureUpdater\obj\Debug\Boston.Service.FeatureUpdater.resources
+C:\Projects\DotNet2012\BostonFeatureUpdater\BostonFeatureUpdater\obj\Debug\Boston.Service.ProjectInstaller.resources
+C:\Projects\DotNet2012\BostonFeatureUpdater\BostonFeatureUpdater\obj\Debug\BostonFeatureUpdater.csproj.GenerateResource.Cache
+C:\Projects\DotNet2012\BostonFeatureUpdater\BostonFeatureUpdater\bin\Debug\BostonFeatureUpdater.exe.config
+C:\Projects\DotNet2012\BostonFeatureUpdater\BostonFeatureUpdater\bin\Debug\BostonFeatureUpdater.exe
+C:\Projects\DotNet2012\BostonFeatureUpdater\BostonFeatureUpdater\bin\Debug\BostonFeatureUpdater.pdb
+C:\Projects\DotNet2012\BostonFeatureUpdater\BostonFeatureUpdater\obj\Debug\BostonFeatureUpdater.exe
+C:\Projects\DotNet2012\BostonFeatureUpdater\BostonFeatureUpdater\obj\Debug\BostonFeatureUpdater.pdb
